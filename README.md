@@ -1,6 +1,6 @@
 Hi, I’m miruthula
 - 👀 I’m interested in Machine learning and Data Science
-- 🌱 I’m currently working as Data science intern at Alpha AI
+- 🌱 I’m currently working as ML Research Intern at NITT
 
 
 <!---
